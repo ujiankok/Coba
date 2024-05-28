@@ -10,8 +10,6 @@ from pyrogram.enums import ParseMode
 from datetime import datetime
 
 from config import API_HASH, APP_ID, LOGGER, TG_BOT_TOKEN, TG_BOT_WORKERS, FORCE_SUB_CHANNEL, CHANNEL_ID, PORT, FORCE_SUB_1, FORCE_SUB_2, FORCE_SUB_3, FORCE_SUB_4, FORCE_SUB_5, FORCE_SUB_6, OWNER
-)
-
 
 name ="""
 ░█████╗░░█████╗░██████╗░███████╗██╗░░██╗██████╗░░█████╗░████████╗███████╗
